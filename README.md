@@ -1,0 +1,4 @@
+railsgirlslima
+==============
+
+ideas app
